@@ -42,5 +42,9 @@ Se você for representante dos direitos autorais de algum elemento aqui presente
 Parte dos ativos, fontes, dados e templates mantidos neste repositório foi coletada, adaptada ou recuperada a partir de ferramentas e projetos mantidos pela comunidade. Agradecemos imensamente aos idealizadores e mantenedores das seguintes fontes originais:
 
 - **[Proximity-Engine/M15-Master-Template]:** Coleta original de molduras M15 em alta resolução. *[Link](https://github.com/Proximity-Engine/M15-Master-Template)*
+- **[andrewgioia/mana]:** Coleta de fontes e SVGs de símbolos. *[Link](https://github.com/andrewgioia/Mana)*
+- **[Saeris/typeface-beleren-bold]:** Coleta de fontes. *[Link](https://github.com/Saeris/typeface-beleren-bold)*
+- **[magarena/magarena]:** Coleta de fontes. *[Link](https://github.com/magarena/magarena/)*
+- **[JulietaUla/Montserrat]:** Coleta de fontes. *[Link](https://github.com/JulietaUla/Montserrat/)*
 
 > *Nota: Se você é autor de algum material compilado neste repositório e deseja que seu nome/crédito seja ajustado ou removido, por favor abra uma **Issue** para atualização rápida.*
